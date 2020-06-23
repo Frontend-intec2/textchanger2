@@ -1,0 +1,41 @@
+.butwrap {
+  margin: 0 auto;
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.butred {
+  background: red;
+  margin: 2px;
+  padding: 2px;
+  width: 20px;
+  height: 20px;
+  font-size: 6px;
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+}
+
+.butgreen {
+  background: lime;
+  text-align: center;
+  padding: 2px;
+  margin: 2px;
+  width: 20px;
+  height: 20px;
+  font-size: 6px;
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+}
+
+.cortext {
+  background: yellow;
+  padding: 6px;
+  margin: 12px;
+  border-radius: 12px;
+}
